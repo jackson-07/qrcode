@@ -1,3 +1,4 @@
 # qrcode
 
-qr code generator, you'll need to install pyqrcode
+You'll need to install <a href="https://pypi.org/project/PyQRCode/">PyQRcode</a>
+
