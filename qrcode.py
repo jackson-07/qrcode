@@ -3,6 +3,6 @@ import os, shutil
 
 file_name_png = "qrcode" + ".png"
 
-url = pyqrcode.create("https://jackson-07.github.io/website/")
+url = pyqrcode.create("insert web page here")
 
-url.png(file_name_png, scale=8)
+url.png(file_name_png, scale=8) 
